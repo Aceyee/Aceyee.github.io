@@ -1,0 +1,18 @@
+/*  Name: index.css
+ *  Author: Zihan Ye
+ *  Description: style sheets for main page
+ */
+
+html{ 
+    background: #00090C; 
+}
+
+body{
+    margin: 0;
+}
+
+.board{
+    position: relative; 
+    height:700px; 
+    width:100%;
+}
